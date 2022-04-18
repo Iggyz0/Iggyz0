@@ -1,6 +1,6 @@
 ### Hi there, my name is Igor 👋
 
-### I am currently a Software and Information Technology student!
+### I am currently a Software and Information engineering student!
 
 - 🔭 I’m currently working on a Java Spring Boot microservices backend for my finals project.
 - 🌱 I’m currently learning Data Warehouse technologies and IoT.
